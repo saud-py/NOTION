@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 6-Month Data Engineering Career Roadmap Bootstrapper
 
 This script automatically sets up a comprehensive 6-month data engineering learning plan by creating:
@@ -153,3 +154,6 @@ After running the script:
 4. **Start Learning**: Begin with Week 1 - SQL basics!
 
 The roadmap is designed to take you from beginner to job-ready in 6 months with hands-on projects that demonstrate real-world data engineering skills.
+=======
+# NOTION
+>>>>>>> 990979740dd9e7ce291df77daaf1094a52b37dc7
